@@ -1,0 +1,101 @@
+job_id,company_id,title,description,location,status
+1,49,AI/ML Engineer,Developing and maintaining scalable web applications and microservices.,On-site,Open
+2,20,Full Stack Developer,Building RESTful APIs and optimizing database performance.,Remote,Open
+3,50,Backend Engineer,Implementing machine learning pipelines and data analytics solutions.,Hybrid,In_Review
+4,28,Full Stack Developer,Designing embedded systems and microcontrollers for IoT devices.,On-site,Draft
+5,30,Data Engineer,Implementing machine learning pipelines and data analytics solutions.,On-site,Open
+6,32,Cloud Architect,Designing embedded systems and microcontrollers for IoT devices.,Hybrid,Closed
+7,8,DevOps Engineer,Building RESTful APIs and optimizing database performance.,Remote,Open
+8,17,Database Administrator,Building RESTful APIs and optimizing database performance.,Hybrid,Draft
+9,17,DevOps Engineer,Designing embedded systems and microcontrollers for IoT devices.,Hybrid,Closed
+10,45,Data Engineer,Implementing machine learning pipelines and data analytics solutions.,Remote,Draft
+11,3,DevOps Engineer,Building RESTful APIs and optimizing database performance.,On-site,In_Review
+12,27,Embedded Systems Engineer,Designing embedded systems and microcontrollers for IoT devices.,On-site,Draft
+13,10,Cybersecurity Analyst,Designing embedded systems and microcontrollers for IoT devices.,Hybrid,Closed
+14,45,Cybersecurity Analyst,Implementing machine learning pipelines and data analytics solutions.,Remote,Open
+15,3,Software Engineer,Implementing machine learning pipelines and data analytics solutions.,Remote,Closed
+16,46,Systems Engineer,Implementing machine learning pipelines and data analytics solutions.,On-site,In_Review
+17,15,Full Stack Developer,Developing and maintaining scalable web applications and microservices.,Hybrid,Draft
+18,9,Frontend Developer,Managing cloud infrastructure and DevOps automation on AWS.,Hybrid,Open
+19,44,Systems Engineer,Building RESTful APIs and optimizing database performance.,Remote,Closed
+20,18,DevOps Engineer,Developing and maintaining scalable web applications and microservices.,Remote,Closed
+21,20,Backend Engineer,Designing embedded systems and microcontrollers for IoT devices.,Hybrid,Closed
+22,26,Database Administrator,Developing and maintaining scalable web applications and microservices.,On-site,Draft
+23,15,AI/ML Engineer,Developing and maintaining scalable web applications and microservices.,On-site,Open
+24,30,Backend Engineer,Designing embedded systems and microcontrollers for IoT devices.,Remote,Open
+25,31,Data Engineer,Designing embedded systems and microcontrollers for IoT devices.,On-site,In_Review
+26,33,Software Engineer,Developing and maintaining scalable web applications and microservices.,On-site,In_Review
+27,38,Embedded Systems Engineer,Managing cloud infrastructure and DevOps automation on AWS.,Remote,Open
+28,24,Data Engineer,Implementing machine learning pipelines and data analytics solutions.,On-site,In_Review
+29,12,Systems Engineer,Developing and maintaining scalable web applications and microservices.,On-site,Closed
+30,41,Cybersecurity Analyst,Managing cloud infrastructure and DevOps automation on AWS.,Remote,Draft
+31,33,Backend Engineer,Managing cloud infrastructure and DevOps automation on AWS.,Remote,In_Review
+32,32,Embedded Systems Engineer,Designing embedded systems and microcontrollers for IoT devices.,Remote,Draft
+33,48,Data Engineer,Managing cloud infrastructure and DevOps automation on AWS.,On-site,Draft
+34,14,Cybersecurity Analyst,Building RESTful APIs and optimizing database performance.,Hybrid,Open
+35,1,Frontend Developer,Managing cloud infrastructure and DevOps automation on AWS.,Hybrid,In_Review
+36,16,Cloud Architect,Implementing machine learning pipelines and data analytics solutions.,On-site,In_Review
+37,49,Systems Engineer,Developing and maintaining scalable web applications and microservices.,Remote,Closed
+38,3,Cybersecurity Analyst,Implementing machine learning pipelines and data analytics solutions.,Hybrid,Closed
+39,45,Cloud Architect,Managing cloud infrastructure and DevOps automation on AWS.,Remote,Open
+40,10,Systems Engineer,Managing cloud infrastructure and DevOps automation on AWS.,Remote,Draft
+41,27,Cloud Architect,Developing and maintaining scalable web applications and microservices.,Remote,Draft
+42,39,Cybersecurity Analyst,Building RESTful APIs and optimizing database performance.,Remote,In_Review
+43,39,AI/ML Engineer,Developing and maintaining scalable web applications and microservices.,Hybrid,Open
+44,24,Cloud Architect,Implementing machine learning pipelines and data analytics solutions.,Remote,In_Review
+45,46,Software Engineer,Building RESTful APIs and optimizing database performance.,On-site,Closed
+46,18,Software Engineer,Developing and maintaining scalable web applications and microservices.,Hybrid,Open
+47,15,AI/ML Engineer,Managing cloud infrastructure and DevOps automation on AWS.,Remote,Open
+48,31,Systems Engineer,Implementing machine learning pipelines and data analytics solutions.,On-site,Draft
+49,39,Backend Engineer,Implementing machine learning pipelines and data analytics solutions.,Hybrid,Closed
+50,19,Database Administrator,Managing cloud infrastructure and DevOps automation on AWS.,On-site,Open
+51,36,Backend Engineer,Developing and maintaining scalable web applications and microservices.,Hybrid,Open
+52,43,AI/ML Engineer,Developing and maintaining scalable web applications and microservices.,Remote,In_Review
+53,18,DevOps Engineer,Developing and maintaining scalable web applications and microservices.,Remote,Open
+54,22,Cloud Architect,Designing embedded systems and microcontrollers for IoT devices.,Hybrid,Draft
+55,43,Data Engineer,Developing and maintaining scalable web applications and microservices.,Hybrid,Closed
+56,17,AI/ML Engineer,Building RESTful APIs and optimizing database performance.,On-site,Closed
+57,7,Backend Engineer,Building RESTful APIs and optimizing database performance.,Hybrid,Closed
+58,15,Data Engineer,Implementing machine learning pipelines and data analytics solutions.,Remote,Draft
+59,19,Full Stack Developer,Developing and maintaining scalable web applications and microservices.,Hybrid,Open
+60,18,Full Stack Developer,Managing cloud infrastructure and DevOps automation on AWS.,Hybrid,Closed
+61,1,AI/ML Engineer,Building RESTful APIs and optimizing database performance.,Remote,Closed
+62,6,Backend Engineer,Developing and maintaining scalable web applications and microservices.,Hybrid,Draft
+63,48,AI/ML Engineer,Designing embedded systems and microcontrollers for IoT devices.,Remote,Closed
+64,18,Data Engineer,Managing cloud infrastructure and DevOps automation on AWS.,Remote,Draft
+65,15,Full Stack Developer,Building RESTful APIs and optimizing database performance.,Remote,In_Review
+66,49,Embedded Systems Engineer,Implementing machine learning pipelines and data analytics solutions.,Remote,Draft
+67,42,Cloud Architect,Managing cloud infrastructure and DevOps automation on AWS.,Remote,Closed
+68,46,DevOps Engineer,Developing and maintaining scalable web applications and microservices.,Hybrid,Draft
+69,19,Cybersecurity Analyst,Building RESTful APIs and optimizing database performance.,On-site,Closed
+70,40,Software Engineer,Managing cloud infrastructure and DevOps automation on AWS.,Remote,Closed
+71,48,Full Stack Developer,Building RESTful APIs and optimizing database performance.,Hybrid,Closed
+72,5,Full Stack Developer,Designing embedded systems and microcontrollers for IoT devices.,Hybrid,Closed
+73,47,Data Engineer,Building RESTful APIs and optimizing database performance.,Hybrid,Closed
+74,43,Embedded Systems Engineer,Building RESTful APIs and optimizing database performance.,Hybrid,In_Review
+75,8,Cloud Architect,Developing and maintaining scalable web applications and microservices.,Hybrid,Closed
+76,36,Software Engineer,Building RESTful APIs and optimizing database performance.,Remote,In_Review
+77,7,DevOps Engineer,Developing and maintaining scalable web applications and microservices.,Remote,Open
+78,6,DevOps Engineer,Building RESTful APIs and optimizing database performance.,Hybrid,Open
+79,16,Backend Engineer,Building RESTful APIs and optimizing database performance.,Remote,Draft
+80,12,Database Administrator,Implementing machine learning pipelines and data analytics solutions.,Remote,Closed
+81,26,Database Administrator,Building RESTful APIs and optimizing database performance.,Hybrid,Draft
+82,35,AI/ML Engineer,Implementing machine learning pipelines and data analytics solutions.,Hybrid,In_Review
+83,9,DevOps Engineer,Building RESTful APIs and optimizing database performance.,Remote,Draft
+84,47,Full Stack Developer,Developing and maintaining scalable web applications and microservices.,Hybrid,Draft
+85,24,Systems Engineer,Implementing machine learning pipelines and data analytics solutions.,Hybrid,Draft
+86,50,Database Administrator,Managing cloud infrastructure and DevOps automation on AWS.,On-site,Closed
+87,21,Frontend Developer,Managing cloud infrastructure and DevOps automation on AWS.,On-site,Closed
+88,39,DevOps Engineer,Designing embedded systems and microcontrollers for IoT devices.,Hybrid,In_Review
+89,27,DevOps Engineer,Managing cloud infrastructure and DevOps automation on AWS.,Hybrid,Draft
+90,24,Data Engineer,Managing cloud infrastructure and DevOps automation on AWS.,Remote,Draft
+91,9,Full Stack Developer,Implementing machine learning pipelines and data analytics solutions.,Remote,Open
+92,41,AI/ML Engineer,Building RESTful APIs and optimizing database performance.,Remote,Closed
+93,50,Cloud Architect,Developing and maintaining scalable web applications and microservices.,On-site,Draft
+94,29,AI/ML Engineer,Managing cloud infrastructure and DevOps automation on AWS.,Hybrid,In_Review
+95,19,Cloud Architect,Implementing machine learning pipelines and data analytics solutions.,Remote,Draft
+96,9,Software Engineer,Designing embedded systems and microcontrollers for IoT devices.,Hybrid,Open
+97,25,AI/ML Engineer,Building RESTful APIs and optimizing database performance.,Remote,Closed
+98,12,Cybersecurity Analyst,Designing embedded systems and microcontrollers for IoT devices.,Remote,Open
+99,42,DevOps Engineer,Implementing machine learning pipelines and data analytics solutions.,Remote,In_Review
+100,11,Software Engineer,Managing cloud infrastructure and DevOps automation on AWS.,Remote,Draft

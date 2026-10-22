@@ -1,0 +1,9 @@
+course_id,course_code,course_name,credits
+1,CS-101,Introduction to Computer Science,4
+2,CS-102,Data Structures & Algorithms,4
+3,CS-103,Database Systems,3
+4,CS-104,Operating Systems,3
+5,CS-105,Software Engineering I,3
+6,CS-106,Web Development,3
+7,CS-107,Computer Networks,4
+8,CS-108,Cybersecurity,3

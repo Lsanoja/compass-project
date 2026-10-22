@@ -1,0 +1,21 @@
+skill_id,skill_name,category
+1,Python,Systems
+2,Java,Web Development
+3,C++,Web Development
+4,JavaScript,Programming
+5,TypeScript,Systems
+6,SQL,Programming
+7,React,Databases
+8,Node.js,AI & Data
+9,AWS,Web Development
+10,Docker,Databases
+11,Kubernetes,Web Development
+12,Git,Web Development
+13,PostgreSQL,Databases
+14,MongoDB,Web Development
+15,Linux,Databases
+16,REST API,Web Development
+17,Microservices,Web Development
+18,HTML/CSS,Systems
+19,Machine Learning,AI & Data
+20,Data Structures,Programming

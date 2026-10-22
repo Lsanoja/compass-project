@@ -1,0 +1,301 @@
+student_skill_id,student_id,skill_id,level,evidence
+1,12,7,Expert,Coursework
+2,28,19,Beginner,Coursework
+3,25,14,Beginner,Certificate
+4,45,17,Advanced,Portfolio project
+5,48,4,Beginner,Coursework
+6,11,17,Intermediate,GitHub repository
+7,14,5,Beginner,Coursework
+8,8,15,Beginner,GitHub repository
+9,17,13,Intermediate,GitHub repository
+10,29,6,Intermediate,Portfolio project
+11,47,5,Beginner,Coursework
+12,21,10,Beginner,Portfolio project
+13,17,9,Beginner,Coursework
+14,12,17,Advanced,Certificate
+15,22,17,Beginner,GitHub repository
+16,30,18,Expert,Certificate
+17,8,10,Expert,GitHub repository
+18,5,8,Beginner,GitHub repository
+19,7,7,Advanced,GitHub repository
+20,48,15,Intermediate,GitHub repository
+21,4,13,Advanced,Coursework
+22,2,13,Intermediate,Certificate
+23,5,5,Expert,GitHub repository
+24,49,7,Beginner,GitHub repository
+25,10,13,Intermediate,Certificate
+26,24,11,Beginner,Certificate
+27,12,2,Intermediate,Coursework
+28,2,20,Expert,Portfolio project
+29,5,13,Expert,Certificate
+30,13,9,Beginner,Certificate
+31,45,14,Beginner,Portfolio project
+32,48,11,Advanced,Portfolio project
+33,7,19,Beginner,Coursework
+34,30,4,Beginner,Portfolio project
+35,47,11,Beginner,GitHub repository
+36,19,10,Expert,Coursework
+37,37,11,Intermediate,Portfolio project
+38,7,13,Beginner,Certificate
+39,6,18,Intermediate,Coursework
+40,7,15,Expert,Portfolio project
+41,17,7,Intermediate,GitHub repository
+42,46,11,Advanced,Coursework
+43,4,18,Beginner,Coursework
+44,17,16,Expert,Certificate
+45,21,19,Beginner,GitHub repository
+46,19,14,Advanced,Coursework
+47,49,5,Beginner,Coursework
+48,4,8,Intermediate,GitHub repository
+49,43,14,Advanced,Certificate
+50,19,2,Expert,Portfolio project
+51,4,12,Expert,Certificate
+52,21,7,Expert,GitHub repository
+53,45,9,Intermediate,Coursework
+54,1,9,Expert,Coursework
+55,3,8,Beginner,GitHub repository
+56,45,9,Intermediate,GitHub repository
+57,10,16,Advanced,GitHub repository
+58,22,19,Advanced,GitHub repository
+59,11,18,Expert,Portfolio project
+60,15,16,Advanced,Portfolio project
+61,15,14,Beginner,GitHub repository
+62,42,15,Expert,Coursework
+63,46,1,Beginner,Portfolio project
+64,27,18,Intermediate,Portfolio project
+65,49,3,Advanced,Portfolio project
+66,34,18,Advanced,Coursework
+67,34,4,Intermediate,Certificate
+68,32,18,Beginner,Certificate
+69,43,10,Beginner,Certificate
+70,2,8,Advanced,GitHub repository
+71,40,13,Beginner,Portfolio project
+72,12,18,Advanced,Coursework
+73,22,20,Intermediate,Certificate
+74,47,6,Intermediate,Portfolio project
+75,7,6,Beginner,Coursework
+76,33,8,Intermediate,Portfolio project
+77,13,5,Expert,Certificate
+78,40,3,Expert,Portfolio project
+79,34,8,Beginner,GitHub repository
+80,16,11,Advanced,GitHub repository
+81,48,4,Beginner,Coursework
+82,35,17,Intermediate,Portfolio project
+83,31,12,Advanced,Coursework
+84,2,12,Advanced,GitHub repository
+85,19,2,Intermediate,Certificate
+86,14,14,Expert,Coursework
+87,19,9,Expert,GitHub repository
+88,34,1,Expert,Certificate
+89,47,15,Intermediate,Portfolio project
+90,27,8,Advanced,Coursework
+91,46,7,Beginner,GitHub repository
+92,32,8,Intermediate,Coursework
+93,49,5,Beginner,Portfolio project
+94,38,1,Advanced,Certificate
+95,48,13,Advanced,Portfolio project
+96,50,13,Beginner,Coursework
+97,36,12,Intermediate,Certificate
+98,17,4,Expert,Certificate
+99,31,10,Beginner,Certificate
+100,19,2,Beginner,Coursework
+101,47,13,Intermediate,Portfolio project
+102,16,14,Expert,Coursework
+103,21,10,Intermediate,Portfolio project
+104,7,10,Beginner,GitHub repository
+105,6,3,Expert,GitHub repository
+106,34,7,Intermediate,Portfolio project
+107,12,9,Advanced,Portfolio project
+108,46,13,Advanced,Coursework
+109,39,5,Beginner,Portfolio project
+110,8,9,Expert,Coursework
+111,16,8,Expert,Portfolio project
+112,25,5,Expert,Certificate
+113,22,18,Beginner,GitHub repository
+114,36,20,Intermediate,Certificate
+115,38,13,Expert,Coursework
+116,24,12,Expert,Certificate
+117,36,10,Expert,Portfolio project
+118,47,12,Advanced,Coursework
+119,14,16,Expert,Portfolio project
+120,14,20,Intermediate,GitHub repository
+121,47,8,Expert,GitHub repository
+122,47,19,Intermediate,GitHub repository
+123,41,7,Intermediate,Portfolio project
+124,25,20,Advanced,Certificate
+125,37,3,Intermediate,Coursework
+126,33,16,Intermediate,GitHub repository
+127,20,11,Beginner,Portfolio project
+128,41,8,Advanced,Portfolio project
+129,27,2,Beginner,Portfolio project
+130,30,4,Intermediate,Certificate
+131,31,15,Expert,Certificate
+132,48,8,Beginner,Coursework
+133,24,10,Advanced,Portfolio project
+134,33,12,Intermediate,Coursework
+135,8,5,Beginner,Portfolio project
+136,37,12,Expert,GitHub repository
+137,40,7,Expert,GitHub repository
+138,34,17,Intermediate,GitHub repository
+139,30,16,Beginner,Coursework
+140,23,18,Advanced,Coursework
+141,34,16,Beginner,Coursework
+142,18,9,Intermediate,Portfolio project
+143,21,10,Beginner,GitHub repository
+144,7,3,Beginner,GitHub repository
+145,50,2,Expert,Certificate
+146,23,4,Expert,GitHub repository
+147,42,1,Beginner,Portfolio project
+148,5,16,Expert,Portfolio project
+149,30,16,Advanced,Certificate
+150,29,8,Expert,Certificate
+151,50,12,Expert,Portfolio project
+152,25,13,Advanced,GitHub repository
+153,12,12,Intermediate,Certificate
+154,36,5,Expert,Portfolio project
+155,50,10,Intermediate,Coursework
+156,30,12,Intermediate,Certificate
+157,5,4,Expert,Coursework
+158,50,9,Expert,Coursework
+159,24,20,Intermediate,Portfolio project
+160,6,9,Intermediate,Portfolio project
+161,40,19,Intermediate,Certificate
+162,4,10,Intermediate,Coursework
+163,29,15,Intermediate,Coursework
+164,5,5,Beginner,Certificate
+165,14,19,Advanced,Portfolio project
+166,47,16,Intermediate,Coursework
+167,12,3,Intermediate,Coursework
+168,33,14,Intermediate,Certificate
+169,48,15,Beginner,Certificate
+170,8,3,Beginner,Certificate
+171,48,18,Intermediate,Coursework
+172,15,16,Expert,GitHub repository
+173,6,6,Expert,Certificate
+174,2,19,Intermediate,Portfolio project
+175,26,19,Intermediate,Coursework
+176,19,7,Beginner,Portfolio project
+177,39,10,Beginner,Portfolio project
+178,7,4,Intermediate,Portfolio project
+179,9,5,Beginner,GitHub repository
+180,48,15,Expert,Coursework
+181,22,8,Intermediate,Coursework
+182,44,5,Advanced,GitHub repository
+183,45,20,Advanced,Portfolio project
+184,3,1,Advanced,Portfolio project
+185,8,4,Advanced,Certificate
+186,27,7,Intermediate,Coursework
+187,6,18,Intermediate,GitHub repository
+188,27,15,Beginner,Portfolio project
+189,13,4,Beginner,Coursework
+190,33,16,Advanced,Portfolio project
+191,12,16,Advanced,Certificate
+192,35,16,Beginner,GitHub repository
+193,6,19,Beginner,Coursework
+194,25,13,Intermediate,GitHub repository
+195,16,20,Expert,GitHub repository
+196,46,20,Beginner,GitHub repository
+197,27,15,Advanced,Coursework
+198,43,19,Expert,GitHub repository
+199,20,9,Intermediate,Coursework
+200,10,18,Expert,GitHub repository
+201,30,20,Beginner,Certificate
+202,11,1,Beginner,Certificate
+203,50,8,Intermediate,Certificate
+204,21,8,Advanced,Coursework
+205,8,18,Expert,GitHub repository
+206,7,19,Intermediate,GitHub repository
+207,20,8,Intermediate,GitHub repository
+208,20,11,Intermediate,Certificate
+209,22,19,Advanced,Certificate
+210,20,19,Intermediate,Certificate
+211,34,18,Beginner,GitHub repository
+212,5,14,Advanced,GitHub repository
+213,8,9,Advanced,Portfolio project
+214,20,13,Beginner,GitHub repository
+215,46,6,Expert,Coursework
+216,40,20,Intermediate,Coursework
+217,11,10,Advanced,Certificate
+218,35,19,Intermediate,Portfolio project
+219,12,8,Beginner,Coursework
+220,45,1,Intermediate,Coursework
+221,25,15,Intermediate,Certificate
+222,19,5,Expert,GitHub repository
+223,42,15,Advanced,Portfolio project
+224,30,10,Advanced,GitHub repository
+225,19,17,Expert,Coursework
+226,7,20,Expert,GitHub repository
+227,7,7,Advanced,Certificate
+228,25,3,Expert,GitHub repository
+229,1,6,Advanced,Coursework
+230,39,12,Advanced,GitHub repository
+231,20,12,Intermediate,Portfolio project
+232,21,4,Advanced,Certificate
+233,25,20,Intermediate,Portfolio project
+234,2,8,Beginner,Portfolio project
+235,16,17,Expert,Coursework
+236,47,6,Expert,Certificate
+237,11,15,Beginner,Portfolio project
+238,29,14,Beginner,GitHub repository
+239,26,11,Expert,Portfolio project
+240,10,15,Advanced,Coursework
+241,45,19,Expert,GitHub repository
+242,1,18,Beginner,Certificate
+243,19,3,Expert,Portfolio project
+244,37,13,Intermediate,Portfolio project
+245,20,15,Advanced,Certificate
+246,14,4,Beginner,GitHub repository
+247,5,2,Expert,Coursework
+248,45,16,Intermediate,Portfolio project
+249,9,14,Advanced,Certificate
+250,49,3,Advanced,Coursework
+251,6,7,Expert,GitHub repository
+252,11,16,Beginner,Coursework
+253,23,6,Beginner,GitHub repository
+254,4,8,Intermediate,Coursework
+255,16,1,Beginner,Coursework
+256,2,7,Beginner,GitHub repository
+257,22,19,Advanced,GitHub repository
+258,43,4,Advanced,Certificate
+259,40,8,Expert,Portfolio project
+260,46,14,Expert,Portfolio project
+261,42,16,Expert,Portfolio project
+262,7,1,Beginner,GitHub repository
+263,27,12,Advanced,Portfolio project
+264,45,3,Expert,Portfolio project
+265,28,13,Beginner,Portfolio project
+266,11,7,Intermediate,GitHub repository
+267,35,14,Intermediate,Portfolio project
+268,3,6,Beginner,Certificate
+269,1,17,Intermediate,GitHub repository
+270,21,1,Beginner,GitHub repository
+271,13,5,Advanced,Certificate
+272,17,1,Beginner,Certificate
+273,37,7,Intermediate,GitHub repository
+274,12,1,Expert,Certificate
+275,13,1,Intermediate,Portfolio project
+276,32,5,Expert,Portfolio project
+277,37,14,Beginner,Coursework
+278,47,7,Advanced,Coursework
+279,19,10,Advanced,GitHub repository
+280,7,5,Intermediate,Portfolio project
+281,33,18,Expert,Certificate
+282,23,7,Expert,Coursework
+283,1,18,Advanced,GitHub repository
+284,25,5,Intermediate,Coursework
+285,8,1,Advanced,Portfolio project
+286,25,17,Expert,Coursework
+287,47,5,Advanced,GitHub repository
+288,4,12,Advanced,Certificate
+289,46,10,Beginner,Certificate
+290,42,2,Advanced,GitHub repository
+291,24,7,Beginner,Certificate
+292,39,11,Intermediate,GitHub repository
+293,12,2,Intermediate,Coursework
+294,25,20,Advanced,Portfolio project
+295,3,20,Beginner,Coursework
+296,9,7,Expert,Certificate
+297,41,4,Expert,Portfolio project
+298,50,1,Expert,Certificate
+299,39,8,Intermediate,Certificate
+300,7,16,Beginner,GitHub repository
