@@ -9,7 +9,7 @@ router = APIRouter(prefix="/auth", tags=["Authentication"])
 
 @router.post("/login", response_model=UserResponse)
 def login(credentials: LoginRequest, db: Session = Depends(get_db)):
-    # 1. Buscar al estudiante por correo electrónico en la BD
+    # Find student by email
     student = db.query(Student).filter(Student.email == credentials.email).first()
     
     if not student:
@@ -18,12 +18,12 @@ def login(credentials: LoginRequest, db: Session = Depends(get_db)):
             detail="Credenciales invalidas: correo no encontrado."
         )
 
-    # 2. Verificar si la contraseña ingresada coincide con el hash almacenado
+    # 2. Verificar si la contrasena ingresada coincide con el hash almacenado
     if not verify_password(credentials.password, student.password_hash):
         raise HTTPException(
             status_code=status.HTTP_401_UNAUTHORIZED,
             detail="Credenciales invalidas: contrasena incorrecta."
         )
 
-    # 3. Retornar la información del usuario autenticado
+    # 3. Retornar la informacion del usuario autenticado
     return student
