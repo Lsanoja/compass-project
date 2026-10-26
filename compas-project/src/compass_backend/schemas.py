@@ -3,7 +3,7 @@ from typing import Optional, List
 from datetime import datetime
 
 # =============================================================================
-# 1. SCHEMAS PARA AUTENTICACIÓN Y ESTUDIANTES
+# 1. AUTHENTICATION AND STUDENT SCHEMAS
 # =============================================================================
 
 class StudentBase(BaseModel):
@@ -37,10 +37,8 @@ class UserResponse(BaseModel):
         from_attributes = True
 
 
-
-
 # =============================================================================
-# 2. SCHEMAS PARA MATCHING ENGINE
+# 2. MATCHING ENGINE SCHEMAS
 # =============================================================================
 
 class MatchEvaluationRequest(BaseModel):
